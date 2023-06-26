@@ -3,4 +3,11 @@
   <groupId>net.positronator.digisense</groupId>
   <artifactId>net.positronator.digisense.digisense_learning</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<dependencies>
+	<dependency>
+		<groupId>com.fazecast</groupId>
+		<artifactId>jSerialComm</artifactId>
+		<version>2.9.3</version>
+		</dependency>
+	</dependencies>
 </project>
